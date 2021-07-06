@@ -2,8 +2,8 @@
 
 ## Reason of existance :
 Fix broken URL, blocking pod installs during compilation.
-Like https://dl.bintray.com/ironsource-mobile/ios-adapters/ISAdColonyAdapter4.3.8.zip,
-Is fixed by using https://github.com/ironsource-mobile/ios-adapters/ISAdColonyAdapter4.3.8.zip
+- For example if the following URL is brokwn ```https://dl.bintray.com/ironsource-mobile/ios-adapters/ISAdColonyAdapter4.3.8.zip```
+- It's fixed by using ```https://github.com/ironsource-mobile/ios-adapters/ISAdColonyAdapter4.3.8.zip```
 
 
 
