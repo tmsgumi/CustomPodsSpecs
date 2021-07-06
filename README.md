@@ -2,8 +2,14 @@
 
 ## Reason of existance :
 Fix broken URL, blocking pod installs during compilation.
-- For example if the following URL is broken, with a 403 Forbidden Error ```https://dl.bintray.com/ironsource-mobile/ios-adapters/ISAdColonyAdapter4.3.8.zip```
-- It's fixed by using ```https://github.com/ironsource-mobile/ios-adapters/ISAdColonyAdapter4.3.8.zip```
+- For example if the following URL is broken, with a 403 Forbidden Error 
+
+
+```https://dl.bintray.com/ironsource-mobile/ios-adapters/ISAdColonyAdapter4.3.8.zip```
+- It's fixed by using
+
+
+```https://github.com/ironsource-mobile/ios-adapters/ISAdColonyAdapter4.3.8.zip```
 
 
 
